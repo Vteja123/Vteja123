@@ -67,15 +67,16 @@
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/venkata-teja-2a1491175/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata-teja-2a1491175/" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
   <a href="mailto:venkatateja5555@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Me" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email Me" height="30" width="40" />
   </a>
   <a href="https://public.tableau.com/app/profile/venkata.teja.mereti/vizzes" target="blank">
     <img align="center" src="https://img.icons8.com/color/344/tableau-software.png" alt="Tableau Public Profile" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
