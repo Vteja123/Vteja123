@@ -70,12 +70,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
   <a href="mailto:venkatateja5555@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email Me" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email Me" height="30" width="40" />
   </a>
   <a href="https://public.tableau.com/app/profile/venkata.teja.mereti/vizzes" target="blank">
     <img align="center" src="https://img.icons8.com/color/344/tableau-software.png" alt="Tableau Public Profile" height="30" width="40" />
   </a>
 </p>
+
 
 
 ---
